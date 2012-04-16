@@ -123,7 +123,7 @@
       </build>
     </profile>
     <profile>
-      <id>JBOSS_AS_MANAGED_7.X</id>
+      <id>JBOSS_AS_MANAGED_7.X2</id>
       <dependencies>
         <dependency>
           <groupId>org.jboss.as</groupId>
